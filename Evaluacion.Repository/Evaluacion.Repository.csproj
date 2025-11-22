@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Evaluacion.Data\Evaluacion.Data.csproj" />
+    <ProjectReference Include="..\Evaluacion.Interfaces\Evaluacion.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

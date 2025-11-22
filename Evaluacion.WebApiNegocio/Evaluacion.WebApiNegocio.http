@@ -1,0 +1,6 @@
+@Evaluacion.WebApiNegocio_HostAddress = http://localhost:5107
+
+GET {{Evaluacion.WebApiNegocio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
